@@ -31,8 +31,9 @@ THEN I find a concise, descriptive title
 
 
 ## Mock-Up
-![Alt text](https://user-images.githubusercontent.com/115917541/197428646-db863ed8-1d04-4bee-a0d8-4d36bbc14d9e.png)
 
-Link to deployed application: https://github.com/Vinni99/Module-1.git
+![Alt text](assets/images/197428646-db863ed8-1d04-4bee-a0d8-4d36bbc14d9e.png)
+
+Link to deployed application: <https://github.com/Vinni99/Module-1.git>
 
 Link to have access to the webpage: <https://vinni99.github.io/Module-1/>
